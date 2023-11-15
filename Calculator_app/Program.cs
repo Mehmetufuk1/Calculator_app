@@ -42,7 +42,7 @@
                         Console.WriteLine("Çarpma İşlemi " + (sayi1 * sayi2));
                         break;
                     default:
-                        Console.WriteLine("işlem yapılamadı");
+                        Console.WriteLine("işlem yapılamadı yanlış işlem yaptınız ");
                         break;
 
                 }
